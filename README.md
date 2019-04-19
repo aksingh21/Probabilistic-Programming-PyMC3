@@ -1,1 +1,1 @@
-# Probabilistic-Programming-PyMC3
+# Probabilistic Programming PyMC3
